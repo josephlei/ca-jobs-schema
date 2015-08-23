@@ -9,7 +9,7 @@ Currently:
 
 Known Issues:
 * Requires consistent, automated way to convert PDF to raw text
- * Have considered xpdf, pdftotxt, ghostscript, all work.. but text recognition formats are inconsistent, even without considering OCR
+ * Have considered xpdf, pdftotxt, ghostscript, ps2ascii; all work.. but text recognition formats are inconsistent, even without considering OCR
  * This is still a manual process as of this posting
 
 Future Plans:
