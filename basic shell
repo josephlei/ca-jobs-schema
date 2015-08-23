@@ -1,0 +1,13 @@
+# Retrieve the most recent version directly from CalHR
+# May need to be updated if CalHR changes their web schema or naming
+
+wget -O schema_alphabetic.pdf http://www.calhr.ca.gov/Pay%20Scales%20Library/PS_Sec_15.pdf
+
+#need to figure out a way to convert pdf to txt before grep
+
+
+# Use GREP to throw out all the junk we don't want, headers, titles, etc.
+
+grep -vwE "(Schem Class|Code Full Class Title|Compensation MCR CBID SISA Footnotes AR Crit Prob. Mo. WWG NT|Civil Service Pay Scale - by Class Title|State of California|Pay Scales/CalHR Net: Updated)" raw > raw_processed
+
+ps2ascii schema_alphabetic.pdf raw.txt

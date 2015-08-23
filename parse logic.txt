@@ -1,0 +1,45 @@
+civil parse logic
+
+1. replace .*\n lines to clear all the junk, won't catch the very last line in file
+	this is being replaced by automated grep removals
+
+2. if it has a $ sign in it then is a "pay line"
+	if first character of pay line is a $ sign then it doesn't have ranges, proceed
+		low pay
+		-
+		high pay
+		"HR" if it is hourly (see pg 134), optional
+
+		SISA (opt)
+		footnotes (sets of 2 digit numerics, opt, sep by space)
+		ar crit (alternate range criteria, sets of 3 digit numerics, opt)
+		MCR (modified classification review) almost always a 1 or 0, maybe 2
+		space
+		6 or 12 for prob months
+		space
+		WWG (E or 2_, 1 or 2 digits, everyone has one)
+		nt (nt or lt, limited term temp intermittent)
+		CBID 3 digits, alpha num num
+
+
+	if the first char of pay line is not a $ then it has ranges, which is always one character followed by a space
+		1 range character
+		1 space
+		1 $
+		low pay until -
+		1 $
+		high pay until space
+
+
+3. if it's NOT a pay line then it's a title line which is easy
+	first 4 is scheme
+	one space
+	5-8 is class
+	one space
+	10 to end of line is title
+
+need to be able to import line by line, what do i do that does this? ref. python geocoder
+
+need data frames to store it in, dicts or arrays, lists
+
+start by storing the entire string and classifying whether pay or title line 0/1 bool
