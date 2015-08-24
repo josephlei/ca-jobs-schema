@@ -8,6 +8,6 @@ wget -O schema_alphabetic.pdf http://www.calhr.ca.gov/Pay%20Scales%20Library/PS_
 
 # Use GREP to throw out all the junk we don't want, headers, titles, etc.
 
-grep -vwE "(Schem Class|Code Full Class Title|Compensation MCR CBID SISA Footnotes AR Crit Prob. Mo. WWG NT|Civil Service Pay Scale - by Class Title|State of California|Pay Scales/CalHR Net: Updated)" raw > raw_processed
+grep -vwE "(Schem Class|Code Full Class Title|Compensation MCR CBID SISA Footnotes AR Crit Prob. Mo. WWG NT|Civil Service Pay Scale - by Class Title|State of California|Pay Scales/CalHR Net: Updated)" schema_alphabetic_raw > schema_alphabetic_cleaned
 
 ps2ascii schema_alphabetic.pdf raw.txt
