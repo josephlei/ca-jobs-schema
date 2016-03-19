@@ -1,0 +1,12 @@
+
+FIND: \(Rev.*\n
+REPLACE: NOTHING
+ACTION: remove the footers for schema file
+
+FIND: ([A-Z]\.)
+REPLACE: \t\1
+ACTION: indent high level group
+
+FIND: (\d+\.)
+REPLACE: \t\t\1
+ACTION: indent subgroup, be careful of numbers with more than one digit

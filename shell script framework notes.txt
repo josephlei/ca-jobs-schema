@@ -16,3 +16,5 @@ use :%s/<Ctrl-V><Ctrl-M>/\r/g within VIM to replace all the ^M characters with r
 the control characters need to be pressed, not pasted in
 
 ps2ascii schema_alphabetic.pdf raw.txt
+
+grep -vwE "(Schem|Class|Civil Service Pay Scale - by Class Title|State of California|Code Full Class Title|Compensation SISA Footnotes AR Crit MCR Prob. Mo. WWG NT CBID|Pay Scales/CalHR Net: Updated)" schema_alphabetic_raw > schema_alphabetic_cleaned

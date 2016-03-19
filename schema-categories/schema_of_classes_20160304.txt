@@ -1,0 +1,377 @@
+AGRICULTURE AND CONSERVATION AA00-BZ99
+	A. AGRICULTURE ADMINISTRATION AA00
+	B. STANDARDIZATION AND INSPECTION
+		1. Fruit and Vegetable Standardization AB00
+		2. Egg and Poultry Quality Control AC00
+		3. Fruit and Vegetable Quality Control AD00
+		4. Field Crops AE00
+		5. Economic Poisons and Fertilizers AG00
+	C. COMPLIANCE
+		1. Weights and Measures AJ00
+		2. Marketing Enforcement AL00
+	D. DAIRY INDUSTRY
+		1. Milk Control AN00
+		2. Livestock Identification AP00
+	E. AGRICULTURAL ECONOMICS
+		1. Marketing AQ20
+		2. Market News AR00
+		3. Agricultural Statistics AS50
+	F. ANIMAL INDUSTRY
+		1. Administration AT00
+		2. Animal Health AT30
+		3. Public Health Veterinarian AU00
+		4. Meat Inspection AV00
+		5. Agricultural Veterinary Laboratory Services AX00
+		6. Dairy Service AY00
+	G. PLANT INDUSTRY
+		1. Plant Quarantine BA00
+		2. Rodent and Weed Control BB13
+		3. Seed Laboratory BC31
+		4. Plant Pathology BD81
+		5. Entomology BF00
+	H. ENVIRONMENTAL SPECIALISTS BH70
+	I. ENERGY SPECIALISTS BI00
+	J. FOOD PRODUCTION (FARMING) BK00 
+	K. HORTICULTURE
+		1. Groundskeeping BL00
+		2. Tree Service BM00
+	L. FISH AND GAME
+		1. Administration BN00
+		2. Fish Propagation and Research BO00
+		3. Biologist BP00
+		4. Game Management BQ20
+	M. PARKS AND RECREATION
+		1. Development and Management BR00
+		2. Aquatic Safety BS20
+		3. Park Protection BS53
+		4. Information BS60
+		5. Outdoor Recreation BV00
+		6. Boating BW00
+	N. FOREST PROTECTION BW80
+OFFICE AND ALLIED SERVICES CA00-CZ99
+	A. GENERAL CA00
+	B. TYPING CC00
+	C. STENOGRAPHY AND SECRETARIAL CD00
+	D. LEGISLATIVE CF00
+	E. PAYROLL CG05
+	F. PERSONNEL-CLERICAL CG40
+	G. MACHINE OPERATIONS
+		1. Key Data CJ00
+		2. Mailing CK00
+		3. Microfilm CL40
+		4. Duplicating CL58
+		5. General Office CM00
+	H. STOREKEEPING
+		1. General CN60
+		2. Equipment CO00
+	I. COMMUNICATIONS CQ00 
+	J. FISCAL
+		1. Cashiering CS00
+		2. Account Record Keeping and Review CU00
+	K. MISCELLANEOUS OFFICE SERVICES AND ALLIED CW00
+CUSTODIAN AND DOMESTIC SERVICES DA00-DZ99
+	A. CUSTODIAL AND PROTECTIVE
+		1. Protective Services DA00
+		2. Janitorial and Elevator Operation DC00
+	B. PERSONNEL SERVICES DE00
+	C. LAUNDRY SERVICE DG00
+	D. FOOD SERVICES
+		1. Food Management DH00
+		2. Food Preparation and Service DJ00
+EDUCATION AND LIBRARY EA00-FZ99
+	A. TEACHING
+		1. Administration EA00
+		2. Academic EB00
+		3. Vocational ED00
+	B. EDUCATION AND ADMINISTRATION
+		1. Education Administration EK80
+		2. California Postsecondary Education Commission EL10
+		3. Postsecondary Education EL50
+		4. California Community Colleges EM25
+		5. Vocational Education EN20
+		6. Public School Administration ER00
+		7. Consultants EU20
+		8. Teacher Education EV30
+		9. Intergroup Relations EW00
+		10. Research EX00
+		11. Curriculum
+			a. Secondary Education EZ10
+			b. Elementary Education FB00
+			c. Audio-Visual Education FC20
+			d. Adult Education FD00
+			e. Special Education FE00
+			f. Health Education and Personnel Services FG00
+		12. Compensatory Education FH86
+	C. MUSEUM AND ARTS
+		1. Museum FJ00 
+		2. Arts and Photography FK00
+		3. Music FL00
+	D. LIBRARY FM00
+ENGINEERING AND ALLIED SERVICES GA00-IZ99
+	A. ENGINEERING-TECHNICAL
+		1. General GA25
+		2. Drafting GB00
+		3. Meteorology GD00
+		4. Soil Studies GE80
+		5. Photogrammetry GG30
+	B. CIVIL ENGINEERING
+		1. Civil GH00
+		2. Highway GJ00
+		3. Bridge Design and Construction GL00
+		4. Hydraulic GN00
+		5. Cost Estimating GT20
+		6. Structural GV00
+		7. Material Testing and Inspection GX00
+		8. Chemical Testing GZ00
+		9. Construction Supervision HA00
+		10. Miscellaneous HC00
+	C. VALUATION AND UTILITIES ENGINEERING
+		1. Public Utilities HD00
+		2. Transportation HF00
+		3. Appraisal HG30
+	D. MECHANICAL AND ELECTRICAL ENGINEERING
+		1. Mechanical HH00
+		2. Electrical, Electronics, and Communication HJ00
+		3. Equipment HM00
+		4. Automotive Equipment Testing HN00
+		5. Electric Utilities HO00
+		6. Operations and Maintenance HQ00
+	E. MINING, PETROLEUM AND GEOLOGY
+		1. Mining HR00
+		2. Engineering Geology HT00
+		3. State Lands HT90
+		4. Oil and Gas HU40
+	F. PUBLIC HEALTH AND SAFETY ENGINEERING
+		1. General Public Health HX00
+		2. Environmental Sanitation HY00
+		3. Air Sanitation and Pollution Control IA00
+		4. Industrial Hygiene IC60 
+		5. Water Pollution Control ID10
+		6. Industrial Safety IE00
+		7. Transportation Operations IH30
+	G. ARCHITECTURE
+		1. Building Design IK00
+		2. Landscape Design IM00
+		3. Architectural Drafting IN00
+		4. Specification Writing IO00
+		5. Construction Analysis IQ00
+		6. Architectural Project Analysis IR00
+		7. Construction and Inspection IS00
+		8. Estimating IV00
+FISCAL, MANAGEMENT AND STAFF SERVICES JA00-MZ99
+	A. FINANCIAL
+		1. General Auditing and Financial Examinations JA00
+		2. Public Utility Rates and Examinations JG00
+		3. Tax Administration and Auditing JH00
+		4. State Controller's Office JK00
+		5. Accounting and Departmental Fiscal Control JL00
+		6. Specialized Financial Staff Services JR00
+		7. Financial Planning and Investments JV00
+	B. PLANNING SERVICES JW00
+	C. GENERAL ADMINISTRATIVE SERVICES JY00
+	D. INSTITUTION ADMINISTRATIVE SERVICES KE00
+	E. ADMINISTRATIVE ASSISTANCE KF00
+	F. HEALTH ADMINISTRATION KH00
+	G. BUSINESS AND OFFICE MANAGEMENT
+		1. General Business Services KK00
+		2. Departmental Business Services KL00
+		3. Institution Business Services KM30
+	H. MATERIALS ACQUISITION SERVICES
+		1. Purchasing KP00
+		2. Surplus Property KQ00
+	I. PROPERTY APPRAISAL AND ACQUISITION
+		1. Property Acquisition KR00
+		2. Property Appraisal and Verification KT00
+		3. Farm and Home Purchasing KW00
+		4. Mortgage Loan KX00 
+	J. PERSONNEL
+		1. General Personnel KY90
+		2. Examining and Recruitment LA00
+		3. Departmental Personnel LB00
+		4. Training LC00
+	K. MANAGEMENT AND BUDGET ANALYSIS
+		1. General LE00
+		2. Budgetary Control LF00
+		3. Administrative Analysis LH00
+	L. ELECTRONIC INFORMATION PROCESSING
+		1. Management LK00
+		2. Acquisition LL00
+		3. Programming and Analysis LM00
+		4. Computer Operations and Information Processing LN00
+	M. RETIREMENT SYSTEMS LO00
+	N. ACTUARIAL, RESEARCH, AND STATISTICS
+		1. Actuarial LP00
+		2. Research and Statistics
+			a. General Research LQ00
+			b. Research Science LS00
+			c. Public Utilities Research LT00
+			d. Social Research and Related LU00
+			e. Statistics LX18
+	O. PUBLIC RELATIONS, INFORMATION, AND PUBLICATIONS
+		1. Public Education and Information LZ00
+		2. Exhibits MB00
+		3. Publications MC00
+		4. Audio-Visual Services MD00
+	P. EXPOSITION ME00
+	Q. STUDENT EMPLOYMENT MF00
+LEGAL OA60-OZ99
+	A. GENERAL LEGAL OA60
+	B. ATTORNEY GENERAL OC00
+	C. LEGISLATIVE OF00
+	D. DEPARTMENTAL LEGAL STAFFS
+		1. Administrative Law OH00
+		2. Business Law OJ00
+		3. Government Law OM00 
+		4. Transportation Law OO00
+		5. Public Resources Law OP00
+	E. HEARING OFFICERS AND REFEREES OT00
+MECHANICAL AND CONSTRUCTION TRADES PA00-RZ99
+	A. GENERAL LABOR PA00
+	B. WATER RESOURCES PD00
+	C. ROAD CONSTRUCTION AND MAINTENANCE PE00
+	D. MECHANICAL EQUIPMENT OPERATIONS PH00
+	E. HYDROELECTRIC MAINTENANCE AND OPERATION PK85
+	F. GENERAL BUILDING TRADES
+		1. Carpentry and Woodworking PN00
+		2. Painting PQ00
+		3. Electrical PS00
+		4. Plumbing and Steamfitting PT00
+		5. Metal Working and Welding PV00
+		6. Cement and Masonry PX00
+		7. Repair and Restoration PZ00
+		8. Miscellaneous Building Trades QA00
+	G. BUILDINGS AND GROUNDS
+		1. Office Building Management QB00
+		2. Stationary Equipment Operation and Maintenance QC00
+		3. Miscellaneous QC50
+	H. MISCELLANEOUS EQUIPMENT CONSTRUCTION AND
+MACHINERY
+		1. Office Equipment QH00
+		2. Machinists QI00
+		3. Automotive Equipment, Maintenance and Repair QJ00
+		4. Traffic Signs QO00
+		5. Communications, Electronics, and Telephone QO40
+	I. MARINE TRADES QT00
+	J. INSTITUTIONAL INDUSTRIES
+		1. Correctional Industries Production Management and Sales QZ00
+		2. Industrial Enterprises RA00
+	K. PRINTING TRADES
+		1. General RF00
+		2. Composing Room RH00
+		3. Pressroom RJ00 
+		4. Bindery Trades RM00
+		5. Miscellaneous Printing Trades RO00
+MEDICINE AND ALLIED SERVICES SA00-TZ99
+	A. INSTITUTION MEDICINE
+		1. General SA00
+		2. Psychiatric SC00
+		3. Miscellaneous Medical Specialties SF90
+	B. PUBLIC HEALTH MEDICINE
+		1. Departmental Administration SH00
+		2. Laboratory SK60
+		3. Radiologic Health SK90
+	C. MEDICAL EXAMINING
+		1. Compensation Insurance SM10
+		2. Department of Health SM60
+		3. Employment SN10
+		4. Industrial Accident Commission SO10
+		5. Consumer Affairs SP00
+		6. Personnel Board SP10
+		7. Vocational Rehabilitation SP50
+	D. DENTISTRY
+		1. General Dentistry SR00
+		2. Public Health SR45
+	E. PROJECT RESEARCH SS00
+	F. MEDICAL SUBSIDIARY
+		1. Laboratory Sub-Professional ST00
+		2. Dental Assistance SU40
+		3. Clinical Laboratory SV00
+		4. Bacteriology SW00
+		5. Vector Control SX00
+		6. Pharmacy Services SY00
+		7. Medi-Cal Services SY80
+		8. Hospital and Sanitary Inspection SZ00
+		9. Environmental Health TA00
+		10. Miscellaneous Medical Subsidiary TC00
+	G. CHEMISTRY
+		1. Agricultural TD00
+		2. Public Health TE00
+		3. Miscellaneous Chemistry TG00
+	H. NURSING SERVICE
+		1. General Nursing TH00
+		2. Psychiatric TI50 
+		3. Nursing Consultants TJ00
+		4. Public Health TJ85
+		5. Psychiatric Technicians TL05
+		6. Miscellaneous Nursing Service TN00
+	I. SPECIAL THERAPEUTIC
+		1. General TO00
+		2. Physical Therapy TP00
+		3. Occupational Therapy TP60
+		4. Miscellaneous Therapy TR00
+	J. PRE-PROFESSIONAL TS00
+	K. HEALTH TREATMENT TT00
+	L. HEALTH EDUCATION
+		1. Public Health TU00
+STATE EMERGENCY DISASTER PROGRAM UA00-UG99
+	A. PLANNING UA05
+	B. COMMUNICATIONS AND ELECTRONICS UD00
+	C. LAW ENFORCEMENT UE00
+	D. FIRE AND RESCUE UG00
+PROTECTIVE SERVICES AND PUBLIC SAFETY VA00-VZ99
+	A. POLICE AND LAW ENFORCEMENT
+		1. Highway Patrol VA00
+		2. Fish and Game VB20
+	B. CRIMINAL IDENTIFICATION AND INVESTIGATION
+		1. Administration VD00
+		2. Fingerprints VE00
+		3. Criminalists VF08
+		4. Polygraph VF45
+		5. Law Enforcement Consultant VG60
+	C. SPECIAL INVESTIGATOR VI00
+	D. FIELD REPRESENTATION
+		1. Collection and Tax Administration VL00
+		2. Consumer Services VM00
+		3. Institutional Patient Affairs VM70
+		4. Real Estate VO00 
+		5. Alcoholic Beverage Control VP00
+		6. Motor Vehicles VQ00
+	E. INSPECTION
+		1. Regulation of Business and Professional Activities VS00
+		2. Public Health and Safety VW40
+SOCIAL SECURITY AND REHABILITATION SERVICES WA00-XY99
+	A. EMPLOYMENT SECURITY
+		1. Unemployment Insurance Claims and Placement WA65
+		2. Disability Insurance WE00
+	B. INSURANCE
+		1. Special Insurance Services WF00
+		2. State Compensation Insurance WH00
+	C. SOCIAL SERVICE
+		1. Program Review and Assistance WK00
+		2. Adoption Services WL00
+	D. EMPLOYMENT RELATIONS
+		1. Field Representation WO05
+		2. Apprenticeship Standards WO10
+		3. Labor Law Enforcement WQ00
+		4. Fair Employment Practices WR00
+		5. Conciliation WS00
+	E. CORRECTIONAL AND GROUP SUPERVISION (INSTITUTIONS)
+		1. General WS35
+		2. Juvenile WT00
+		3. Adult WW00
+		4. Special Schools XA00
+	F. PAROLE
+		1. General Correctional Case Work XC00
+		2. Juvenile XC40
+		3. Adult XE00
+	G. REHABILITATION
+		1. Vocational XG00
+		2. Community Services XJ00
+		3. Behavioral Scientists XK00
+		4. Clinical Psychology XL00
+		5. Psychiatric Social Work XP10
+		6. Medical Social Work XQ00
+		7. Youth Authority Social Work XR00
+		8. Correctional Counseling and Classification XS00
+		9. Chaplaincy Services XT00
+		10. Veterans Affairs XU00 
