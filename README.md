@@ -9,7 +9,7 @@ By doing this, we will be able to help qualified job seekers more easily discove
 We need your help, specifically the skills needed for this phase will be: 
 
 * XPATH or CSS selecting (language agnostic)
-* **OPEN SOURCE** RDBS and/or NoSQL
+* **OPEN SOURCE** RDBS and/or NoSQL; for first iteration json/xml result will be OK
 * Natural Language Processing (NLP)
 * Linked network analysis, key word in context, soundex, similarity score maybe tf-idf or cosine similarity (I'm not an expert in this area, suggestions happily accepted as an GitHub issue)
 
