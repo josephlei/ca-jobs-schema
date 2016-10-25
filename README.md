@@ -18,6 +18,7 @@ Other guiding principles:
 * **Open source only**, yes Stata/MatLAB/SAS are great but this is public data and we want to make sure all citizens have access to it (but by all means use the FREE SAS Studio edition, R, Python, etc :)
 * An **abstracted/generalized, automated solution**. We appreciate citizens getting their hands dirty in the data and manually brute forcing through it to help the state, but just imagine instead of ~1,800 class codes you have 1,800,000 or the text changes, would it still work?
 * Contributed code is intended to help benefit the people of California, credit may be given but **anything submitted (including in issues) will be considered to be fully open source to the fullest extent of what "open source" may mean.**
+* Write your code against the **cached versions** of the base classification specifications located in the folder /class-spec-html. Since I've already done this as of 2016-10-24 there's no reason to contribute further load
 
 ----------------------------
 
