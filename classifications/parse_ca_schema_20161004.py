@@ -187,7 +187,7 @@ parse_nt_cbid(test['entry'])
 
 # In[37]:
 
-input_file  = open('schema_alphabetic_cleaned_2016-10-04.txt', 'rU') #Open data file
+input_file  = open('schema_alphabetic_cleaned', 'rU') #Open data file
 
 data = [line.rstrip('\n') for line in input_file] #data is a list of strings, each containing one line
 
@@ -250,7 +250,7 @@ for idx, val in enumerate(schema):
 
 #new version
 
-with open('schema_alphabetic_final_20161004.csv', 'wb') as f:
+with open('schema_alphabetic_final_20170313.csv', 'wb') as f:
     writer = csv.writer(f)
     writer.writerow(['class','schema','title','range','low','high','special','footnotes','arcrit','mcr','prob',
                      'wwg','nt','cbid'])
